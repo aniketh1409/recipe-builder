@@ -7,7 +7,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['Inter var', 'sans-serif'],
+        mono: ['-apple-system', 'BlinkMacSystemFont', 'Inter var'],
+        sans: ['Poppins', 'sans-serif'],
       },
       gridTemplateColumns: {
         '70/30' : '70% 28%',
